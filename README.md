@@ -1,7 +1,8 @@
 # Home Assignment Programming
 
 ## Description
-This project contains a Jupyter notebook that performs various tasks related to the analysis of FMRI data for musicians, including data import, visualization, and histogram plotting.
+This is is a repository for the programming home assingment, with neuroimaging data from musicians taken from Neurosynth. 
+All descriptions for step-by-step process are included in the code. 
 
 ## Table of Contents
 1. [Installation](#installation)
