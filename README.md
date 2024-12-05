@@ -31,4 +31,5 @@ Please feel free to submit issues and pull requests. All contributions are welco
 
 ## Authors and Aknowledgments
 Author: Bego-FGorostidi
+
 Special thanks to Mattias Mau, Anna Harmelen and Karla Tann
